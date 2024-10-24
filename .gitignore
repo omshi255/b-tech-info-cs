@@ -1,0 +1,6 @@
+# Ignore all HTML files
+*.html
+
+# Ignore a specific HTML file
+/workspaces/b-tech-info-cs/BTechInfo-main/BTechInfo-main/index.html
+BTechInfo-main/BTechInfo-main/cards.html
